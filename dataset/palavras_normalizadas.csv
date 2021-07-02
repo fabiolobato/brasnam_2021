@@ -1,0 +1,805 @@
+p1,p2
+analise da produtividade,bibliometria
+analise da produtividade,ciencia da computacao
+bibliometria,ciencia da computacao
+analise de redes sociais,redes cientificas
+analise de redes sociais,modelagem multi-relacional
+redes cientificas,modelagem multi-relacional
+analise de sentimentos,twitter
+analise de sentimentos,noticias
+twitter,noticias
+analise temporal,redes sociais academicas
+analise temporal,bibliometria
+redes sociais academicas,bibliometria
+analise de redes sociais,tempo real
+analise de redes sociais,busca de caminhos
+tempo real,busca de caminhos
+padroes estruturais,analise de redes sociais
+padroes estruturais,redes polarizadas
+analise de redes sociais,redes polarizadas
+bibliometria,redes de coautoria
+bibliometria,curriculos lattes
+redes de coautoria,curriculos lattes
+classificacao automatica,redes sociais online
+classificacao automatica,algoritmos nao-supervisionados
+redes sociais online,algoritmos nao-supervisionados
+deteccao de conteudo,twitter
+deteccao de conteudo,analise de influencia
+twitter,analise de influencia
+redes de coautoria,programas de pos-graduacao
+redes de coautoria,ciencia da computacao
+programas de pos-graduacao,ciencia da computacao
+mineracao de dados,bibliometria
+mineracao de dados,curriculos lattes
+bibliometria,curriculos lattes
+mineracao de dados,redes sociais academicas
+mineracao de dados,analise de colaboracao
+redes sociais academicas,analise de colaboracao
+analise de redes sociais,mediacao docente
+analise de redes sociais,twitter
+mediacao docente,twitter
+analise de sentimentos,escala psicometrica
+analise de sentimentos,twitter
+escala psicometrica,twitter
+robos,usuarios influentes
+robos,twitter
+usuarios influentes,twitter
+topologia de redes,politicas publicas
+topologia de redes,dengue
+politicas publicas,dengue
+discussoes politicas,visualizacao de confrontos
+discussoes politicas,visualizacao de aliancas
+visualizacao de confrontos,visualizacao de aliancas
+redes de cliques,redes sociais academicas
+redes de cliques,redes de coautoria
+redes sociais academicas,redes de coautoria
+uso de celular,meio de comunicacao
+uso de celular,publico infantil
+meio de comunicacao,publico infantil
+fluxos de informacao,redes sociais academicas
+fluxos de informacao,interatividade
+redes sociais academicas,interatividade
+futebol,analise de redes sociais
+futebol,analise de substituicoes
+analise de redes sociais,analise de substituicoes
+analise temporal,analise de redes sociais
+analise temporal,comunidade medica
+analise de redes sociais,comunidade medica
+processo de busca,criancas
+processo de busca,motores de busca
+criancas,motores de busca
+fluxos de informacao,fluxo de conhecimento
+fluxos de informacao,saude da familia
+fluxo de conhecimento,saude da familia
+identificacao de especialistas,predicao de relacionamentos
+identificacao de especialistas,microblogging
+predicao de relacionamentos,microblogging
+redes lexicais,texto jornalistico
+redes lexicais,lingua natural
+texto jornalistico,lingua natural
+marketing em midias sociais,superbowl
+marketing em midias sociais,analise de redes sociais
+superbowl,analise de redes sociais
+influencia de usuarios,entropia
+influencia de usuarios,analise de redes sociais
+entropia,analise de redes sociais
+mineracao de dados,mineracao de opiniao
+mineracao de dados,twitter
+mineracao de opiniao,twitter
+e-learning,analise de redes sociais
+e-learning,facebook
+analise de redes sociais,facebook
+crowdfunding,midias sociais
+crowdfunding,brasil
+midias sociais,brasil
+sistema de recomendacao,comunicacao textual
+sistema de recomendacao,entidades nomeadas
+comunicacao textual,entidades nomeadas
+redes pessoais,comunidades carcerarias
+redes pessoais,analise de resiliencia
+comunidades carcerarias,analise de resiliencia
+simulador de aceitabilidade,producao cinematografica
+simulador de aceitabilidade,previsao de sucesso
+producao cinematografica,previsao de sucesso
+analise de redes sociais,recuperacao de informacao
+analise de redes sociais,cenarios de emergencia
+recuperacao de informacao,cenarios de emergencia
+selecao de conteudo,foruns online
+selecao de conteudo,aprendizado de maquina
+foruns online,aprendizado de maquina
+analise de correspondencia,analise de redes sociais
+analise de correspondencia,colonia de formigas
+analise de redes sociais,colonia de formigas
+analise de conteudo,redes de termos
+analise de conteudo,documentos tecnicos
+redes de termos,documentos tecnicos
+ecossistemas de software,analise de redes sociais
+ecossistemas de software,engenharia de software
+analise de redes sociais,engenharia de software
+analise contextualizada,comunidades cientificas
+analise contextualizada,analise de redes sociais
+comunidades cientificas,analise de redes sociais
+producao cientifica,ciencia da computacao
+producao cientifica,orientacao academica
+ciencia da computacao,orientacao academica
+analise de redes sociais,redes de coautoria
+analise de redes sociais,redes semanticas
+redes de coautoria,redes semanticas
+analise de redes sociais,larga escala
+analise de redes sociais,programas de treinamento
+larga escala,programas de treinamento
+programas de pos-graduacao,bibliometria
+programas de pos-graduacao,bioinformatica
+bibliometria,bioinformatica
+redes sociais multipolarizadas,interacoes sociais
+redes sociais multipolarizadas,propagacao de informacao
+interacoes sociais,propagacao de informacao
+mineracao de texto,analise de redes sociais
+mineracao de texto,areas de atuacao
+analise de redes sociais,areas de atuacao
+mineracao de sentimentos,twitter
+mineracao de sentimentos,mineracao visual
+twitter,mineracao visual
+analise de opiniao,eleicoes municipais
+analise de opiniao,twitter
+eleicoes municipais,twitter
+analise de sentimentos,sentimentos coletivos
+analise de sentimentos,twitter
+sentimentos coletivos,twitter
+predicao de coautorias,predicao de ligacoes
+predicao de coautorias,redes sociais academicas
+predicao de ligacoes,redes sociais academicas
+predicao de relacionamentos,redes sociais
+predicao de relacionamentos,eventos temporais
+redes sociais,eventos temporais
+predicao de influenciadores,twitter
+predicao de influenciadores,tracos de personalidade
+twitter,tracos de personalidade
+redes de titulos,producao cientifica
+redes de titulos,analise temporal
+producao cientifica,analise temporal
+predicao de retweeting,matriz de adjacencia
+predicao de retweeting,redes sociais online
+matriz de adjacencia,redes sociais online
+rede social,idosos
+rede social,redes complexas
+idosos,redes complexas
+midias sociais,colaboracao de grupos
+midias sociais,gerenciamento de tarefas
+colaboracao de grupos,gerenciamento de tarefas
+atencao visual,redes sociais
+atencao visual,informacoes visuais
+redes sociais,informacoes visuais
+modelos de previsao,redes sociais
+modelos de previsao,previsao de eventos
+redes sociais,previsao de eventos
+modelo epidemiologico,propagacao de informacao
+analise estrutural,extracao de informacao
+analise estrutural,bate-papo na web
+extracao de informacao,bate-papo na web
+ecossistemas de software,redes socio-tecnicas
+ecossistemas de software,analise de redes sociais
+redes socio-tecnicas,analise de redes sociais
+redes cientificas,plataforma lattes
+redes cientificas,modelagem de redes
+plataforma lattes,modelagem de redes
+agrupamento,multiplas visoes
+agrupamento,redes sociais
+multiplas visoes,redes sociais
+classificacao de opinioes,seguranca da informacao
+classificacao de opinioes,analise de redes sociais
+seguranca da informacao,analise de redes sociais
+preditor de sucesso,cinema
+preditor de sucesso,modelo epidemiologico
+cinema,modelo epidemiologico
+recomendacao,grupos heterogeneos
+recomendacao,aprendizagem
+grupos heterogeneos,aprendizagem
+redes sociais de larga escala,recomendacao
+redes sociais de larga escala,clusters de computadores
+recomendacao,clusters de computadores
+analise de transito,twitter
+analise de transito,analise de redes sociais
+twitter,analise de redes sociais
+redes de colaboracao cientifica,analise temporal
+redes de colaboracao cientifica,analise de redes sociais
+analise temporal,analise de redes sociais
+genealogia,grafos
+genealogia,analise de redes sociais
+grafos,analise de redes sociais
+analise de redes sociais,redes academicas
+analise de redes sociais,redes de coautoria
+redes academicas,redes de coautoria
+analise de redes sociais,indice-h
+analise de redes sociais,redes de colaboracao cientifica
+indice-h,redes de colaboracao cientifica
+mineracao de dados,analise de redes sociais
+mineracao de dados,programacao logica
+mineracao de dados,workflows
+analise de redes sociais,programacao logica
+analise de redes sociais,workflows
+programacao logica,workflows
+sistema de recomendacao,recomendacao de cidades
+sistema de recomendacao,comunidades de usuarios
+recomendacao de cidades,comunidades de usuarios
+analise de redes sociais,programas de bonificacao
+analise de redes sociais,marketing digital
+programas de bonificacao,marketing digital
+sistema de perguntas e respostas,sensivel ao contexto
+sistema de perguntas e respostas,aprendizado
+sensivel ao contexto,aprendizado
+analise estrutural,rede centro-periferia
+analise estrutural,dengue
+rede centro-periferia,dengue
+promocao da saude,trabalhadores de saude
+promocao da saude,analise de redes sociais
+trabalhadores de saude,analise de redes sociais
+analise de sentimentos,twitter
+analise de sentimentos,protestos
+twitter,protestos
+mineracao de emocoes,textos multilingues
+mineracao de emocoes,mineracao de opiniao
+textos multilingues,mineracao de opiniao
+e-commerce,redes sociais
+e-commerce,analise de sentimentos
+redes sociais,analise de sentimentos
+redes sociais,pesquisa eleitoral
+redes sociais,analise de sentimentos
+pesquisa eleitoral,analise de sentimentos
+eleicoes,analise de redes sociais
+eleicoes,comentarios de noticias
+analise de redes sociais,comentarios de noticias
+predicao de links,redes de coautoria
+predicao de links,metricas nao-dicotomicas
+redes de coautoria,metricas nao-dicotomicas
+inferencia de sexo,inferencia de idade
+inferencia de sexo,twitter
+inferencia de idade,twitter
+colaboracao cientifica,informatica inteligente e segura
+colaboracao cientifica,analise de redes sociais
+informatica inteligente e segura,analise de redes sociais
+analise de coesao,votacoes
+analise de coesao,parlamentares
+votacoes,parlamentares
+homofilia,cotas universitarias
+homofilia,universidade federal da bahia
+cotas universitarias,universidade federal da bahia
+redes socio-tecnicas,recursos humanos
+redes socio-tecnicas,alocacao de tarefas
+recursos humanos,alocacao de tarefas
+analise de redes sociais,mapeamento sistematico
+analise de redes sociais,projetos de software
+mapeamento sistematico,projetos de software
+predicao de coautorias,predicao de links
+predicao de coautorias,rede social academica
+predicao de links,rede social academica
+recomendacao de amizades,abordagem hibrida
+recomendacao de amizades,svm
+abordagem hibrida,svm
+violencia discursiva,redes sociais
+violencia discursiva,dominacao
+violencia discursiva,genero
+redes sociais,dominacao
+redes sociais,genero
+dominacao,genero
+redes de afinidade,gestao de conhecimento
+redes de afinidade,difusao de conhecimento
+gestao de conhecimento,difusao de conhecimento
+seguranca da informacao,big data
+seguranca da informacao,revisao
+big data,revisao
+analise de influencia,protestos brasileiros
+analise de influencia,twitter
+protestos brasileiros,twitter
+redes de palavras,sistema de atendimento
+redes de palavras,analise de redes sociais
+sistema de atendimento,analise de redes sociais
+analise de relevancia,artigos cientificos
+analise de relevancia,analise de redes sociais
+artigos cientificos,analise de redes sociais
+analise de mobilidade,software livre
+analise de mobilidade,analise de redes sociais
+software livre,analise de redes sociais
+analise de sentimentos,abordagem multilingue
+analise de sentimentos,analise de sentimentos multilingue
+abordagem multilingue,analise de sentimentos multilingue
+risco de inundacao,midias sociais
+risco de inundacao,abordagem geografica
+midias sociais,abordagem geografica
+indice-h,genealogia academica
+indice-h,orientacao academica
+genealogia academica,orientacao academica
+mercado brasileiro de acoes,twitter
+mercado brasileiro de acoes,bovespa
+twitter,bovespa
+copa do mundo,twitter
+copa do mundo,analise de comportamento
+twitter,analise de comportamento
+analise de redes sociais,redes educacionais
+analise de redes sociais,redes complexas
+redes educacionais,redes complexas
+analise de comportamento,padroes de navegacao
+analise de comportamento,streaming de video
+padroes de navegacao,streaming de video
+padroes de mobilidade,analise de redes sociais
+padroes de mobilidade,plataforma lattes
+analise de redes sociais,plataforma lattes
+ciencias sem fronteira,mobilidade estudantil
+impacto social,impacto academico
+impacto social,twitter
+impacto academico,twitter
+criacao de perfis,redes sociais educacionais
+deteccao de sarcasmo,deteccao de ironia
+deteccao de sarcasmo,twitter
+deteccao de ironia,twitter
+deteccao de eventos de vida,midias sociais
+deteccao de eventos de vida,algoritmos de classificacao
+midias sociais,algoritmos de classificacao
+analise de redes sociais,analise de viralidade
+analise de redes sociais,eventos academicos
+analise de viralidade,eventos academicos
+redes sociais,mapeamento da producao cientifica
+redes sociais,web of science
+mapeamento da producao cientifica,web of science
+predicao do resultado,eleicoes presidenciais
+predicao do resultado,twitter
+eleicoes presidenciais,twitter
+incidencia-fidelidade,redes semanticas
+incidencia-fidelidade,rede critica
+redes semanticas,rede critica
+analise da confiabilidade,propagacao de informacao
+analise da confiabilidade,midias sociais
+propagacao de informacao,midias sociais
+analise de redes sociais,ciencia da computacao
+analise de redes sociais,comunidade cientifica brasileira
+ciencia da computacao,comunidade cientifica brasileira
+redes de coautoria,bolsistas de produtividade
+redes de coautoria,engenharia de producao
+bolsistas de produtividade,engenharia de producao
+monitoramento,governo
+monitoramento,lingua portuguesa
+monitoramento,metodo nao supervisionado
+governo,lingua portuguesa
+governo,metodo nao supervisionado
+lingua portuguesa,metodo nao supervisionado
+desambiguacao de nomes,redes sociais academicas
+desambiguacao de nomes,classificacao
+desambiguacao de nomes,dblp
+redes sociais academicas,classificacao
+redes sociais academicas,dblp
+classificacao,dblp
+teoria de redes,padroes de tatuagens
+teoria de redes,crime
+padroes de tatuagens,crime
+construcao de redes,rede social historica
+construcao de redes,avancos tecnico-cientificos
+rede social historica,avancos tecnico-cientificos
+redes complexas,econofisica
+redes complexas,mercados financeiros
+econofisica,mercados financeiros
+computacao humana,oligarquias politicas
+computacao humana,dados eleitorais
+oligarquias politicas,dados eleitorais
+ecossistemas de software,ambiente social
+ecossistemas de software,redes socio-tecnicas
+ambiente social,redes socio-tecnicas
+rede social academica,analise de influencia
+rede social academica,google academico
+analise de influencia,google academico
+analise de relevancia,sistemas embarcados
+analise de relevancia,analise de redes sociais
+sistemas embarcados,analise de redes sociais
+analise de popularidade,twitter
+analise de popularidade,sistemas de votacao
+twitter,sistemas de votacao
+visualizacao de redes,ambiente web
+visualizacao de redes,grandes redes
+ambiente web,grandes redes
+copa do mundo,analise de sentimentos
+copa do mundo,twitter
+analise de sentimentos,twitter
+analise de redes sociais,bibliometria
+analise de redes sociais,produtividade
+bibliometria,produtividade
+analise de redes sociais,ranqueamento
+analise de redes sociais,medida de influencia
+ranqueamento,medida de influencia
+avaliacao de reviews,redes neurais artificiais
+avaliacao de reviews,reviews online
+redes neurais artificiais,reviews online
+analise de redes sociais,instagram
+analise de redes sociais,caracterizacao de perfis
+instagram,caracterizacao de perfis
+analise de redes sociais,bibliometria
+analise de redes sociais,pos-graduacao
+bibliometria,pos-graduacao
+predicao de relacionamentos,redes sociais academicas
+predicao de relacionamentos,predicao de links
+redes sociais academicas,predicao de links
+sistema de recomendacao,conferencias cientificas
+sistema de recomendacao,redes de coautoria
+conferencias cientificas,redes de coautoria
+sistema de recomendacao,informacoes semanticas
+sistema de recomendacao,grafos bipartidos
+informacoes semanticas,grafos bipartidos
+difusao de conhecimento,lacos sociais
+difusao de conhecimento,redes de coautoria
+lacos sociais,redes de coautoria
+analise de sentimentos,mineracao de opiniao
+analise de sentimentos,processamento de linguagem natural
+mineracao de opiniao,processamento de linguagem natural
+fluxos de informacao,co-ocorrencia de palavras
+fluxos de informacao,diario oficial da uniao
+co-ocorrencia de palavras,diario oficial da uniao
+analise de redes sociais,congresso brasileiro
+analise de redes sociais,doacoes eleitorais
+congresso brasileiro,doacoes eleitorais
+predicao de relacionamentos,revisao sistematica
+predicao de relacionamentos,predicao de links
+revisao sistematica,predicao de links
+influencia de usuarios,jornais on-line
+influencia de usuarios,analise de redes sociais
+jornais on-line,analise de redes sociais
+analise de polaridade,noticias brasileiras
+analise de polaridade,manchetes
+noticias brasileiras,manchetes
+forca de relacionamentos,redes sociais de coautoria
+forca de relacionamentos,propriedades topologicas
+redes sociais de coautoria,propriedades topologicas
+violencia patrimonial,twitter
+violencia patrimonial,analise de redes sociais
+twitter,analise de redes sociais
+inferencia de sexo,liwc
+inferencia de sexo,portugues do brasil
+liwc,portugues do brasil
+analise da homifilia,twitter
+analise da homifilia,eleicao presidencial americana
+twitter,eleicao presidencial americana
+classificacao de filmes,liwc
+classificacao de filmes,legendas
+liwc,legendas
+redes neurais artificiais,reviews
+redes neurais artificiais,filmes
+reviews,filmes
+crime characterization,clustering analysis
+crime characterization,web  crawling
+clustering analysis,web  crawling
+redes de personagens,grau ponderado
+redes de personagens,o senhor dos aneis
+grau ponderado,o senhor dos aneis
+predicao de links,redes de coautoria
+predicao de links,curriculos lattes
+redes de coautoria,curriculos lattes
+classificacao de comentarios online,series de televisao
+classificacao de comentarios online,reddit
+series de televisao,reddit
+redes complexas,futebol
+redes complexas,competitividade
+futebol,competitividade
+analise de redes sociais,comunidades
+analise de redes sociais,remocao de interacoes aleatorias
+comunidades,remocao de interacoes aleatorias
+mineracao de dados,segmentacao
+mineracao de dados,marketing
+segmentacao,marketing
+modelagem estatistica,ergm
+modelagem estatistica,analise de redes sociais
+ergm,analise de redes sociais
+mineracao de dados,analise de redes sociais
+mineracao de dados,programacao logica
+mineracao de dados,workflows
+analise de redes sociais,programacao logica
+analise de redes sociais,workflows
+programacao logica,workflows
+tie strength analysis,evolution of social networks
+tie strength analysis,social exchange
+evolution of social networks,social exchange
+social capital,social selection model
+social capital,academic productivity
+social selection model,academic productivity
+supervised classification,annotated dataset
+supervised classification,brazilian web
+annotated dataset,brazilian web
+escalonamento multidimensional,teoria de redes
+escalonamento multidimensional,redes financeiras
+teoria de redes,redes financeiras
+mineracao de redes complexas,transporte publico
+mineracao de redes complexas,sistema de onibus
+transporte publico,sistema de onibus
+analise de poder em redes sociais,senado federal brasileiro
+analise de poder em redes sociais,metricas de poder
+senado federal brasileiro,metricas de poder
+deteccao de topicos relevantes,redes sociais online
+deteccao de topicos relevantes,twitter
+redes sociais online,twitter
+liwc,predadores sexuais
+liwc,rede social
+predadores sexuais,rede social
+framenet brasil,lexicografia computacional
+framenet brasil,modelo conceitual
+lexicografia computacional,modelo conceitual
+reddit,analise das interacoes sociais
+reddit,comunidades online
+analise das interacoes sociais,comunidades online
+reddit,transtornos de saude mental
+reddit,analise de comunidades
+transtornos de saude mental,analise de comunidades
+analise de sentimentos,tweet
+analise de sentimentos,portugues brasileiro
+tweet,portugues brasileiro
+redes de colaboracao cientifica,metricas de analises de redes
+redes de colaboracao cientifica,bolsistas de produtividade em pesquisa do cnpq
+metricas de analises de redes,bolsistas de produtividade em pesquisa do cnpq
+analise bibliometrica,analise de redes sociais
+analise bibliometrica,avaliacao de grupos academicos
+analise de redes sociais,avaliacao de grupos academicos
+bolhas sociais,twitter
+bolhas sociais,rede de usuarios de tecnologia
+twitter,rede de usuarios de tecnologia
+deteccao de categorias de aspectos,redes neurais profundas
+deteccao de categorias de aspectos,avaliacoes online
+redes neurais profundas,avaliacoes online
+deteccao de posicionamento,tweet
+deteccao de posicionamento,politica no contexto brasileiro
+tweet,politica no contexto brasileiro
+redes neurais,reputacao do autor de comentarios
+redes neurais,sites de vendas de produtos
+reputacao do autor de comentarios,sites de vendas de produtos
+rede semantica de cliques,ementas
+rede semantica de cliques,interdisciplinaridade
+ementas,interdisciplinaridade
+spotify,metricas de centralidade
+spotify,rede de generos musicais
+metricas de centralidade,rede de generos musicais
+analise temporal,rede social de musicas
+analise temporal,similaridade
+rede social de musicas,similaridade
+futebol,redes complexas
+futebol,monetizacao
+redes complexas,monetizacao
+facebook,tecnologias persuasivas
+facebook,influencia cultural
+tecnologias persuasivas,influencia cultural
+analise do mercado de acoes,stocktwits
+analise do mercado de acoes,pares de ativos
+stocktwits,pares de ativos
+facebook,visibilidade
+facebook,algoritmos
+visibilidade,algoritmos
+analisar a governabilidade,padroes de homofilia
+analisar a governabilidade,camara dos deputados
+padroes de homofilia,camara dos deputados
+analises de dados,sistemas crowdsourcing
+analises de dados,yelp
+sistemas crowdsourcing,yelp
+predadores sexuais,narcisismo
+predadores sexuais,liwc
+narcisismo,liwc
+analise de sentimentos,meu querido diario
+analise de sentimentos,svm
+meu querido diario,svm
+fake news,metodos de busca
+fake news,chatbots
+metodos de busca,chatbots
+comportamento depressivo,redes sociais
+comportamento depressivo,classificacao de emocoes
+redes sociais,classificacao de emocoes
+colaboracoes interdisciplinares,redes de coautoria cientifica
+colaboracoes interdisciplinares,plataforma lattes
+redes de coautoria cientifica,plataforma lattes
+sentiment analysis,twitter
+sentiment analysis,liwc
+twitter,liwc
+mineracao de texto,identificacao de postagens
+mineracao de texto,informacoes de localizacao
+identificacao de postagens,informacoes de localizacao
+deficiencia,tweet
+deficiencia,lsa
+tweet,lsa
+analise de redes,perdas nao tecnicas
+analise de redes,propagacao de fraudes
+analise de redes,deteccao de roubos de eletricidade
+perdas nao tecnicas,propagacao de fraudes
+perdas nao tecnicas,deteccao de roubos de eletricidade
+propagacao de fraudes,deteccao de roubos de eletricidade
+rede de ciencia,rede de colaboracao
+rede de ciencia,homofilia
+rede de ciencia,congresso brasileiro
+rede de colaboracao,homofilia
+rede de colaboracao,congresso brasileiro
+homofilia,congresso brasileiro
+processamento de linguagem natural,deteccao de emocoes
+processamento de linguagem natural,linguistic inquiry and word count (liwc)
+deteccao de emocoes,linguistic inquiry and word count (liwc)
+midias sociais,alimentacao saudavel
+midias sociais,redes de cliques
+alimentacao saudavel,redes de cliques
+feminicidio,midias sociais
+feminicidio,modelagem de topicos
+midias sociais,modelagem de topicos
+modelo sequencial,comunidades online
+modelo sequencial,classificacao automatica de proficiencia
+modelo sequencial,reddit
+comunidades online,classificacao automatica de proficiencia
+comunidades online,reddit
+classificacao automatica de proficiencia,reddit
+mineracao de opiniao,aprendizagem ativa
+mineracao de opiniao,estrategias de amostragem
+aprendizagem ativa,estrategias de amostragem
+analise de sentimento,tweet
+analise de sentimento,mercado de acoes brasileiro
+tweet,mercado de acoes brasileiro
+redes sociais,taxa otima de acesso
+redes sociais,modelo analitico
+taxa otima de acesso,modelo analitico
+helpfulness prediction,opinion mining
+helpfulness prediction,network model
+opinion mining,network model
+bots,eleicoes
+bots,twitter
+bots,brasil
+bots,caracterizacao
+eleicoes,twitter
+eleicoes,brasil
+eleicoes,caracterizacao
+twitter,brasil
+twitter,caracterizacao
+brasil,caracterizacao
+depressao,youtube
+depressao,doenca mental
+depressao,rede social
+depressao,text mining
+youtube,doenca mental
+youtube,rede social
+youtube,text mining
+doenca mental,rede social
+doenca mental,text mining
+rede social,text mining
+data mining,analise de redes sociais
+data mining,eleicoes presidenciais brasileiras
+analise de redes sociais,eleicoes presidenciais brasileiras
+data mining,text classification
+data mining,pan-2012
+data mining,identificacao de predador sexual
+data mining,machine learning
+data mining,redes neurais convolucionais
+data mining,redes sociais
+data mining,chat logs
+text classification,pan-2012
+text classification,identificacao de predador sexual
+text classification,machine learning
+text classification,redes neurais convolucionais
+text classification,redes sociais
+text classification,chat logs
+pan-2012,identificacao de predador sexual
+pan-2012,machine learning
+pan-2012,redes neurais convolucionais
+pan-2012,redes sociais
+pan-2012,chat logs
+identificacao de predador sexual,machine learning
+identificacao de predador sexual,redes neurais convolucionais
+identificacao de predador sexual,redes sociais
+identificacao de predador sexual,chat logs
+machine learning,redes neurais convolucionais
+machine learning,redes sociais
+machine learning,chat logs
+redes neurais convolucionais,redes sociais
+redes neurais convolucionais,chat logs
+redes sociais,chat logs
+eleicoes,voting data
+eleicoes,fragmentacao partidaria
+eleicoes,data mining
+voting data,fragmentacao partidaria
+voting data,data mining
+fragmentacao partidaria,data mining
+pagerank,prestigio
+pagerank,genealogia academica
+pagerank,redes sociais academicas
+prestigio,genealogia academica
+prestigio,redes sociais academicas
+genealogia academica,redes sociais academicas
+evolucao de comunidade,extracao e tratamento de dados sociais
+evolucao de comunidade,mining techniques
+extracao e tratamento de dados sociais,mining techniques
+analise de sentimentos,discurso de odio
+analise de sentimentos,redes sociais
+analise de sentimentos,aprendizado de maquina
+discurso de odio,redes sociais
+discurso de odio,aprendizado de maquina
+redes sociais,aprendizado de maquina
+saude mental,redes sociais online
+saude mental,aprendizado de maquina
+redes sociais online,aprendizado de maquina
+midias sociais,dados gerados por usuarios
+midias sociais,levantamento exploratorio
+dados gerados por usuarios,levantamento exploratorio
+twitter,bots
+twitter,filtro para bots
+twitter,redes sociais
+twitter,inducao de regras
+bots,filtro para bots
+bots,redes sociais
+bots,inducao de regras
+filtro para bots,redes sociais
+filtro para bots,inducao de regras
+redes sociais,inducao de regras
+github,ecossistemas de colaboracao
+github,modelos biologicos
+ecossistemas de colaboracao,modelos biologicos
+mineracao de opiniao baseada em aspectos,ontologia
+mineracao de opiniao baseada em aspectos,word embedding
+ontologia,word embedding
+analise de redes sociais,lgpd
+analise de redes sociais,protecao de dados
+analise de redes sociais,metodologia cientifica
+lgpd,protecao de dados
+lgpd,metodologia cientifica
+protecao de dados,metodologia cientifica
+redes sociais online,capital social
+redes sociais online,interacoes sociais
+redes sociais online,paginas institucionais
+redes sociais online,pierre bourdieu
+redes sociais online,facebook
+capital social,interacoes sociais
+capital social,paginas institucionais
+capital social,pierre bourdieu
+capital social,facebook
+interacoes sociais,paginas institucionais
+interacoes sociais,pierre bourdieu
+interacoes sociais,facebook
+paginas institucionais,pierre bourdieu
+paginas institucionais,facebook
+pierre bourdieu,facebook
+sexismo,discurso de odio
+influence propagation,social networks
+influence propagation,combinatorial optimization
+social networks,combinatorial optimization
+affiliate network,affiliate marketing
+affiliate network,social network analysis
+affiliate network,e-commerce network analysis
+affiliate marketing,social network analysis
+affiliate marketing,e-commerce network analysis
+social network analysis,e-commerce network analysis
+mineracao de opiniao,mineracao de texto
+mineracao de opiniao,liwc
+mineracao de texto,liwc
+contagio social,modelagem baseada em agentes
+contagio social,covid-19
+contagio social,redes complexas
+modelagem baseada em agentes,covid-19
+modelagem baseada em agentes,redes complexas
+covid-19,redes complexas
+midias sociais,mineracao de dados
+midias sociais,modelagem de topicos
+mineracao de dados,modelagem de topicos
+modelagem de topicos,deteccao de rumores
+modelagem de topicos,analise de redes sociais
+modelagem de topicos,mineracao de texto
+deteccao de rumores,analise de redes sociais
+deteccao de rumores,mineracao de texto
+analise de redes sociais,mineracao de texto
+redes sociais,democracia
+redes sociais,robos
+redes sociais,noticias falsas
+redes sociais,contas maliciosas
+democracia,robos
+democracia,noticias falsas
+democracia,contas maliciosas
+robos,noticias falsas
+robos,contas maliciosas
+noticias falsas,contas maliciosas
+analise e caracterizacao de dados,portfolios
+analise e caracterizacao de dados,mercado financeiro
+analise e caracterizacao de dados,e-commerce
+analise e caracterizacao de dados,redes sociais
+analise e caracterizacao de dados,stocktwits
+portfolios,mercado financeiro
+portfolios,e-commerce
+portfolios,redes sociais
+portfolios,stocktwits
+mercado financeiro,e-commerce
+mercado financeiro,redes sociais
+mercado financeiro,stocktwits
+e-commerce,redes sociais
+e-commerce,stocktwits
+redes sociais,stocktwits
